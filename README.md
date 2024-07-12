@@ -16,11 +16,11 @@ Reset the input fields.
 
 ### Main Screen
 
--Text Input: Enter the text you want to encrypt or decrypt.
--Password Input: Enter the secret key (password) for encryption and decryption.
--Buttons:
-  -ENCRYPT: Encrypts the entered text using Base64 encoding.
-  -DECRYPT: Decrypts the entered text using Base64 decoding.
-  -RESET: Clears the text and password fields.
++Text Input: Enter the text you want to encrypt or decrypt.
++Password Input: Enter the secret key (password) for encryption and decryption.
++Buttons:
+  +ENCRYPT: Encrypts the entered text using Base64 encoding.
+  +DECRYPT: Decrypts the entered text using Base64 decoding.
+  +RESET: Clears the text and password fields.
 ```
 ```
